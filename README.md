@@ -1,0 +1,2 @@
+# htmlsnippets
+static html snippets
